@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Clement's github stats](https://github-readme-stats.vercel.app/api?username=clementpinard)](https://github.com/anuraghazra/github-readme-stats)
+[![Clement's github stats](https://github-readme-stats.vercel.app/api?username=clementpinard&theme=tokyonight)](https://github.com/clementpinard)
 
  - Reasearch engineer at ENSTA Paris, U2IS lab
  - My main research topics are Computer Vision, Geometry and robotics
