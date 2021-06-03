@@ -4,7 +4,7 @@
 
  - Reasearch engineer at ENSTA Paris, U2IS lab
  - My main research topics are Computer Vision, Geometry and robotics
- - Personal website : https://perso.ensta-paris.fr/~pinard/
+ - Personal website : https://clementpinard.fr
 
 <!--
 **ClementPinard/clementpinard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
