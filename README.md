@@ -2,8 +2,10 @@
 
 [![Clement's github stats](https://github-readme-stats.vercel.app/api?username=clementpinard&theme=tokyonight)](https://github.com/clementpinard)
 
- - Reasearch engineer at ENSTA Paris, U2IS lab
- - My main research topics are Computer Vision, Geometry and robotics
+ - Applied Science Researcher @ [Onfido](https://onfido.com/)
+ - Formerly Research Engineer @ [XXII](https://www.xxiiai.com/)
+ - PhD from ENSTA Paris, [U2IS lab](http://u2is.ensta-paris.fr/?lang=en)
+ - My main research topics are Computer Vision, 3D Geometry and robotics
  - Personal website : https://clementpinard.fr
 
 <!--
