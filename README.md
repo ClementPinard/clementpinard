@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Clement's github stats](https://github-readme-stats.vercel.app/api?username=clementpinard&theme=tokyonight)](https://github.com/clementpinard)
+[![Clement's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=clementpinard&theme=tokyonight)](https://github.com/clementpinard)
 
  - Applied Science Researcher @ [Onfido](https://onfido.com/)
  - Formerly Research Engineer @ [XXII](https://www.xxiiai.com/)
